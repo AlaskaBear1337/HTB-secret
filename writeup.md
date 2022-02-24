@@ -3,7 +3,8 @@ IT'S ALL ABOUT READING DOCS.
 ![](https://i.ibb.co/nfFw67L/secret.png)\
 \
 \
-*note that i skipped useless parts like "we can see this, but as we can see, it's not important to us"*
+*note that i skipped useless parts like "we can see this, but as we can see, it's not important to us"*\
+*note1 that i don't recommend to blindly copy + paste, you will learn nothing. do your own research. :)*
 
 ```
 POST /api/user/register HTTP/1.1
