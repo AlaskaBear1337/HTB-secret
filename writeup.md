@@ -128,9 +128,10 @@ thanks.
 
 **what i used :** 
 \
-              https://askubuntu.com/questions/45679/ssh-connection-problem-with-host-key-verification-failed-error \
-              https://jwt.io/ \
-              https://www.unix.com/man-page/linux/1/apport-unpack/ 
+              https://askubuntu.com/questions/45679/ssh-connection-problem-with-host-key-verification-failed-error {ssh verify host} \
+              https://jwt.io/ 
+	      \
+              https://www.unix.com/man-page/linux/1/apport-unpack/ {checked man page of apport unpack}
               
-https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens for jwt pentesting.
+https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens {for jwt pentesting.}
               
